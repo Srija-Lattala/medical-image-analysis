@@ -26,7 +26,7 @@ Ensure you have the following installed:
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ro-shni/image-analytics.git
+   https://github.com/Srija-Lattala/medical-image-analysis.git
    cd image-analytics
    ```
 
