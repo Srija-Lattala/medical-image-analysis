@@ -1,7 +1,9 @@
 # Image Analytics - Medical Image Analysis Using Google AI
 
 ## Overview
-This project provides an interactive web application for analyzing medical images using Google AI's Generative Model. Built with Streamlit, the application allows users to upload medical images and receive AI-generated analysis, including diagnoses, symptoms, medication recommendations, and dietary advice.
+This project provides an interactive web application for analyzing medical images using Google AI's Generative Model. Built with Streamlit, the application allows users to upload medical images and receive detailed analysis.
+
+**Live Deployment**: [Medical Image Analysis App](https://medical-image-analysis-a.streamlit.app/)
 
 ## Features
 - Upload and analyze medical images (JPEG, PNG, JPG formats)
